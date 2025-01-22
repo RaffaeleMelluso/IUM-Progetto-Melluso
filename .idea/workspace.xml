@@ -7,6 +7,7 @@
     <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dario.ipynbZone.Identifier" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pulizia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pulizia.ipynb" afterDir="false" />
     </list>
@@ -49,6 +50,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -77,6 +79,10 @@
       <workItem from="1736867352276" duration="48000" />
       <workItem from="1736867427724" duration="2983000" />
       <workItem from="1737387636127" duration="222000" />
+      <workItem from="1737540316408" duration="236000" />
+      <workItem from="1737540731342" duration="78000" />
+      <workItem from="1737540820398" duration="5964000" />
+      <workItem from="1737559639057" duration="12000" />
     </task>
     <servers />
   </component>
