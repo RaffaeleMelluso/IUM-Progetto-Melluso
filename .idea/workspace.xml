@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dario.ipynbZone.Identifier" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pulizia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pulizia.ipynb" afterDir="false" />
@@ -83,6 +81,8 @@
       <workItem from="1737540731342" duration="78000" />
       <workItem from="1737540820398" duration="5964000" />
       <workItem from="1737559639057" duration="12000" />
+      <workItem from="1737717577310" duration="1594000" />
+      <workItem from="1737719198892" duration="2626000" />
     </task>
     <servers />
   </component>
