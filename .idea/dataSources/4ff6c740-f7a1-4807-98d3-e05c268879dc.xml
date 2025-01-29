@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="IUM@localhost">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.53">
+    <root id="1">
+      <ServerVersion>8.0.0</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="DynamicData"/>
+    <schema id="3" parent="1" name="IUM">
+      <Current>1</Current>
+      <LastIntrospectionLocalTimestamp>2025-01-29.11:06:51</LastIntrospectionLocalTimestamp>
+    </schema>
+    <schema id="4" parent="1" name="admin"/>
+    <schema id="5" parent="1" name="config"/>
+    <schema id="6" parent="1" name="local"/>
+    <table id="7" parent="3" name="actors_cleaned"/>
+    <table id="8" parent="3" name="countries_cleaned"/>
+    <table id="9" parent="3" name="crews_cleaned"/>
+    <table id="10" parent="3" name="genres_cleaned"/>
+    <table id="11" parent="3" name="languages_cleaned"/>
+    <table id="12" parent="3" name="movies_cleaned"/>
+    <table id="13" parent="3" name="oscar_cleaned"/>
+    <table id="14" parent="3" name="posters_cleaned"/>
+    <table id="15" parent="3" name="releases_cleaned"/>
+    <table id="16" parent="3" name="rotten_tomatoes_cleaned"/>
+    <table id="17" parent="3" name="studios_cleaned"/>
+    <table id="18" parent="3" name="themes_cleaned"/>
+  </database-model>
+</dataSource>

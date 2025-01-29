@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pulizia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pulizia.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analisi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Analisi.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +72,11 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -114,6 +117,10 @@
       <workItem from="1737975267536" duration="3137000" />
       <workItem from="1738057877332" duration="3924000" />
       <workItem from="1738062005253" duration="1101000" />
+      <workItem from="1738147817227" duration="2777000" />
+      <workItem from="1738151374088" duration="84000" />
+      <workItem from="1738151500871" duration="32000" />
+      <workItem from="1738151558837" duration="10000" />
     </task>
     <servers />
   </component>
@@ -121,6 +128,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IUM_Progetto$Database.coverage" NAME="Database Coverage Results" MODIFIED="1738062704290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IUM_Progetto$Database.coverage" NAME="Database Coverage Results" MODIFIED="1738148277126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
