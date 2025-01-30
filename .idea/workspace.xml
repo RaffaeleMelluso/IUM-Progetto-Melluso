@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geopandas example.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Analisi.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analisi.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pulizia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pulizia.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -65,6 +67,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/IUM-Progetto/Data/Maps&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,8 +83,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\IUM-Progetto\Data\Maps" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\IUM-Progetto" />
+      <recent name="\\wsl.localhost\Ubuntu\IUM-Progetto\Data\Maps" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -121,6 +128,8 @@
       <workItem from="1738151374088" duration="84000" />
       <workItem from="1738151500871" duration="32000" />
       <workItem from="1738151558837" duration="10000" />
+      <workItem from="1738231823921" duration="7141000" />
+      <workItem from="1738239162891" duration="1301000" />
     </task>
     <servers />
   </component>
