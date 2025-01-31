@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/analisi.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geopandas example.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisi.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analisi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analisi.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pulizia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pulizia.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +127,11 @@
       <workItem from="1738151558837" duration="10000" />
       <workItem from="1738231823921" duration="7141000" />
       <workItem from="1738239162891" duration="1301000" />
+      <workItem from="1738253173458" duration="2236000" />
+      <workItem from="1738332217635" duration="2613000" />
+      <workItem from="1738334882547" duration="614000" />
+      <workItem from="1738335725147" duration="944000" />
+      <workItem from="1738336694569" duration="3028000" />
     </task>
     <servers />
   </component>
