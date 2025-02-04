@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IUM-Progetto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6b9eb313-ca64-4194-af18-19523f583f08" name="Changes" comment="finito finito">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analisi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analisi.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pulizia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pulizia.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +44,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RaffaeleMelluso/IUM-Progetto.git&quot;,
-    &quot;accountId&quot;: &quot;1f739f2b-728b-4135-ab23-ec76f7dc709f&quot;
+    &quot;url&quot;: &quot;https://github.com/RaffaeleMelluso/IUM-Progetto-Melluso.git&quot;,
+    &quot;accountId&quot;: &quot;585150c8-bbb5-425a-8188-8d3e78c77ace&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -150,12 +147,27 @@
       <workItem from="1738591845878" duration="900000" />
       <workItem from="1738593067431" duration="2380000" />
       <workItem from="1738597280744" duration="1948000" />
-      <workItem from="1738663329986" duration="976000" />
+      <workItem from="1738663329986" duration="3212000" />
+      <workItem from="1738667252215" duration="280000" />
+      <workItem from="1738667971298" duration="3268000" />
     </task>
+    <task id="LOCAL-00001" summary="finito finito">
+      <option name="closed" value="true" />
+      <created>1738664526270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738664526270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finito finito" />
+    <option name="LAST_COMMIT_MESSAGE" value="finito finito" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IUM_Progetto$Database.coverage" NAME="Database Coverage Results" MODIFIED="1738148277126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
